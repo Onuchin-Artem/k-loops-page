@@ -1,4 +1,4 @@
-#Landing Page for k-Loops project
+# Landing Page for k-Loops project
 
 based on [flexdinesh/dev-landing-page](https://github.com/flexdinesh/dev-landing-page) template.
 
